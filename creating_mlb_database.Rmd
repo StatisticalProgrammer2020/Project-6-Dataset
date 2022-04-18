@@ -1,7 +1,6 @@
 ---
 title: "Creating an MLB Database"
 author: "Abe Ceasar Perez"
-date: "April 9, 2022"
 output: html_document
 ---
 
@@ -9,7 +8,8 @@ output: html_document
 
 This project aims to create a Major League Baseball Games database based on the gathered statistics from the year 1800 until today. The goal of this lesson is to convert and normalize this data into several separate tables using SQL and create a robust database of game-level statistics.
 
-In addition to the objectives above, we'll be applying the following concepts in this project:
+For this project, the following concepts were applied in order to accomplish the objectives above:
+
 - SQL Fundamentals
 - SQL Joining
 - Querying from SQLite
